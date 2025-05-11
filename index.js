@@ -1,13 +1,3 @@
-/**
- * npm init -y
- * npm i express
- * npm i ejs
- * create views and public folder
- * creating first api
- * our resource is posts--->becaue all the opertions will be implemented on posts
- * api noun hovi joiye, verb nahi
- */
-
 const express=require("express");
 const app=express();
 const port=3000;
